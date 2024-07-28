@@ -1,2 +1,1 @@
-# Kazuya
-Owner of Mongolian big minecraft community
+Developing minecraft server for over decade
